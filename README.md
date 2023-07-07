@@ -20,4 +20,4 @@ The Fit Track is a comprehensive solution designed to help individuals track the
 
 - **Integration with Wearable Devices**: The app seamlessly integrates with popular fitness trackers or smartwatches, allowing users to automatically sync workout data, heart rate, sleep data, and other relevant metrics.
 
-The Fitness Tracker App empowers individuals to take control of their fitness journey by providing a comprehensive platform for tracking workouts, setting goals, and monitoring progress. With its intuitive interface and powerful features, this app is designed to help users stay motivated, make informed decisions, and achieve their desired fitness outcomes.
+The Fit Track App empowers individuals to take control of their fitness journey by providing a comprehensive platform for tracking workouts, setting goals, and monitoring progress. With its intuitive interface and powerful features, this app is designed to help users stay motivated, make informed decisions, and achieve their desired fitness outcomes.
